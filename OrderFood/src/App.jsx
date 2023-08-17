@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import Food from './assets/meals.svg'
+import Food from './Images/meals.jpg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Components/Layout/Header'

@@ -4,7 +4,10 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default {
   plugins: [
+    [react()],
+
     {
+
       name: 'typescript',
       // enable type checking for .jsx files
       // you can also add other file extensions here
